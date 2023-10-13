@@ -11,7 +11,7 @@ This script will convert HTML files to Markdown files abiding to markdown standa
 
 ## Developer Portal Content Repo(apigee-portal-content)
 
-The content on the existing portal is available in this [repo](https://github.com/bazaarvoice/apigee-portal-content). You can fork the repo and clone it locally to access the html files at ease of the page you are looking at developer portal. 
+The content on the existing portal is available in this [repo](https://github.com/bazaarvoice/apigee-portal-content). You can fork the repo and clone it locally to access the html files at ease of the page you want to migrate. 
 
 ## Usage
 #### html_to_md_folder.py Script
